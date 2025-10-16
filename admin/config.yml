@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/your-repo-name  # replace this with your GitHub username/repo
+  repo: HyperReal256/your-repo-name  # replace this with your GitHub username/repo
   branch: main  # or master if your default branch is master
 
 media_folder: "images/uploads"  # where uploaded files will be stored in the repo
